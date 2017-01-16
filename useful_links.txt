@@ -1,0 +1,11 @@
+Alphabetical list of part-of-speech tags used in the Penn Treebank Project:
+http://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+
+Stanford CoreNLP Homepage:
+http://stanfordnlp.github.io/CoreNLP/index.html
+
+Stanford CoreNLP Phrases Analysis:
+http://nlp.stanford.edu:8080/corenlp/process
+
+Universal Dependencies:
+http://universaldependencies.org/#language-en
