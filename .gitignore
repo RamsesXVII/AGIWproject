@@ -1,0 +1,12 @@
+_Store
+
+*.class
+/bin/
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+*.jar
+/stanford-corenlp-*/*
